@@ -1,3 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/home/abrop_systems/Documentos/git_proyects/Python-Manim/ThePoint_inManim/media/videos/ThePoint_inManim/720p30/partial_movie_files/Punto2/2016333726_1982867867_223132457.mp4'
-file 'file:/home/abrop_systems/Documentos/git_proyects/Python-Manim/ThePoint_inManim/media/videos/ThePoint_inManim/720p30/partial_movie_files/Punto2/543634251_784179552_2317481131.mp4'
